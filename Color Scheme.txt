@@ -1,0 +1,13 @@
+#a4967c
+-Light Brown | Text
+
+==Used==
+
+#bcb195
+-Silver
+
+#fbf5d3
+-Super Light for text
+
+#0c202b
+-Background
